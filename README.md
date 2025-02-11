@@ -35,12 +35,21 @@ Siga as instruções fornecidas pelo programa. O script pedirá o seu nome, esta
 Exemplo de execução:
 
 Bem-Vindo ao BIGBank
+
 Qual é o seu nome completo? Lucas Vieira
+
 Seu nome é Lucas Vieira.
+
 Indique o estado em que você reside atualmente
+
 SP, RJ, SC, CE: SP
+
 Estado selecionado:
+
 SP
+
 Você quer consultar seu limite de saque diário?
+
 Digite: (SIM) ou (NÃO): SIM
+
 350
