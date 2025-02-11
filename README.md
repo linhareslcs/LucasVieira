@@ -6,12 +6,19 @@ Meu primeiro repositório
 O script realiza as seguintes ações:
 
 Saudação: O usuário é cumprimentado com uma mensagem de boas-vindas.
+
 Coleta do nome: O script solicita o nome completo do usuário.
+
 Seleção do estado: O usuário escolhe um estado do Brasil (SP, RJ, SC ou CE).
+
 Consulta ao limite de saque diário: O usuário tem a opção de consultar o seu limite de saque diário, com um valor fixo pré-definido.
-Funcionalidades
+
+{Funcionalidades}
+
 Entrada de dados: O script pede que o usuário informe seu nome e estado.
+
 Limite de saque: O limite de saque diário é fixo em R$ 350,00, e o usuário pode consultar esse valor digitando "SIM" quando solicitado.
+
 
 
 {Como usar}
