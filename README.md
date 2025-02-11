@@ -19,8 +19,11 @@ Limite de saque: O limite de saque diário é fixo em R$ 350,00, e o usuário po
 Clone este repositório ou faça o download do código:
 
 bash
+
 Copiar
+
 Editar
+
 git clone https://github.com/seu-usuario/bigbank.git
 Execute o script em Python:
 
