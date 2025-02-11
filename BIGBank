@@ -1,0 +1,19 @@
+print("Bem-Vindo ao BIGBank")
+
+nome = str(input("Qual é o seu nome completo?"))
+confnome = str(input("Seu nome é {}. ".format(nome)))
+
+print ('Indique o estado em que você reside atualmente ')
+BRAZILIAN_STATES = input ("SP, RJ, SC, CE")
+
+print("Estado selecionado:")
+print(BRAZILIAN_STATES)
+
+print("Você quer consultar seu limite de saque diário?")
+LimiteSaqueDiario = 350
+
+ESCOLHA = input(str("Digite: (SIM) ou (NÃO)"))
+
+if ("SIM"):
+    print("Este é seu limite de saque diário: " )
+    print(LimiteSaqueDiario)
